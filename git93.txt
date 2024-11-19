@@ -1,18 +1,3 @@
 hello my dear friend
 
-
-<<<<<<< HEAD
-i add a new file
-=======
-i add a new command
->>>>>>> 2test
-edited in github online
-
-
-i am s happy
-
-i finished my files
-
-
-
-2nd file open now
+how are you
