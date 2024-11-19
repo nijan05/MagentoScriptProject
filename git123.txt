@@ -1,3 +1,7 @@
 hello 1st person
 
+<<<<<<< HEAD
 edited by 2nd person
+=======
+edidted by 3rd time
+>>>>>>> 1folder
