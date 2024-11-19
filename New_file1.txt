@@ -1,9 +1,0 @@
-hi this my new project
-
-<<<<<<< HEAD
-hello techstar
-=======
-hello techstar hbdvkhdnjkjkhcad
->>>>>>> ModuleBranch
-
-hello hello hello
