@@ -7,3 +7,8 @@ i add a new file
 i add a new command
 >>>>>>> 2test
 edited in github online
+
+
+
+
+i finished my files
