@@ -1,4 +1,8 @@
 hello my dear friend
 
 
+<<<<<<< HEAD
 i add a new file
+=======
+i add a new command
+>>>>>>> 2test
