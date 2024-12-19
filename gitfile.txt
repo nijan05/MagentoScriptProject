@@ -1,0 +1,8 @@
+hi hello git 1st time
+
+<<<<<<< HEAD
+he edited by nijan
+=======
+hi  edited by rakki
+>>>>>>> ModuleB
+git merge after push
