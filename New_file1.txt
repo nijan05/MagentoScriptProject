@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 hi this my new project
 
 <<<<<<< HEAD
@@ -7,3 +8,5 @@ hello techstar hbdvkhdnjkjkhcad
 >>>>>>> ModuleBranch
 
 hello hello hello nijandhngit
+=======
+>>>>>>> ff695e4b83219346bc6c378b1b731707d01a3363
